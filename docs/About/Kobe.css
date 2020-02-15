@@ -1,0 +1,22 @@
+body{
+    background-color:rgb(53, 53, 53);
+}
+
+h1{
+    font-family: 'Roboto', sans-serif ;
+    color: rgb(110, 110, 110);
+   
+    
+}
+
+strong{
+    font-family: 'Roboto',sans-serif;
+    color:white;
+    font-size: 20px;
+}
+
+p{
+    font-family: 'Roboto',sans-serif;
+    color: rgb(110, 110, 110);
+}
+
