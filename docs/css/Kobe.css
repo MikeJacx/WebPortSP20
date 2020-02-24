@@ -1,24 +1,26 @@
+
+nav-width { 
+    width:300px;
+
+} 
+
+site-width{
+    max-width: 2000px;
+}
+
 body{
     background-color:rgb(53, 53, 53);
 }
 
 h1{
     font-family: 'Roboto', sans-serif ;
-    color: rgb(110, 110, 110);
-   box-sizing: content-box;
-   width: 200px;
-   height: 75px;
-   padding: 20px;
-   border: 40px black;
-    
+    color:white;
+    text-align: center;
 }
 
 strong{
     font-family: 'Roboto',sans-serif;
     color:white;
-    margin: 0 auto;
-    width: 200px;
-    background-color: rgb(53, 53, 53);
     font-size: 20px;
 }
 
@@ -26,4 +28,29 @@ p{
     font-family: 'Roboto',sans-serif;
     color: rgb(110, 110, 110);
 }
+
+.Porfolio1{
+    font-size: 40px;
+    color: white;
+    font-family: 'roboto',sans-serif;
+}
+
+
+.PageWO{
+    color:rgb(110, 110, 110);
+    font-family: 'roboto', sans-serif;
+    font-size: 20px;
+    cursor: pointer;
+
+}
+
+.Travel{
+    font-family: 'Roboto',sans-serif;
+    color:white;
+    font-size: 20px;
+    cursor: pointer;
+    }
+
+
+
 
