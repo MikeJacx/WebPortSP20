@@ -1,0 +1,25 @@
+#options
+{
+    display: flex;
+    margin: 0 auto;
+    height: max-content;
+    width: max-content;
+    align-items:space-between;
+    justify-content:space-between;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+.box{
+    width: 7vw;
+    height: 4vw;
+    display: flex;
+    margin: 5px;
+    color: black;
+    justify-content:center;
+    align-Items: center;
+    font-size: 2vw;
+    }
+    .red
+    {
+        background-color: red;
+    }

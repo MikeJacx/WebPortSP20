@@ -1,0 +1,45 @@
+.block
+{
+    display: inline-block;
+    background-color: pink;
+    size: 4vw;
+    border:5vw black;
+    width: 20vw;
+    padding: 7vw;
+    position: relative;
+}
+.text
+{
+    font-size: 5vw;
+    display: inline-block;
+    color:red;
+    font-family: sans-serif;
+    z-index: -3 
+}
+.block2
+{
+    background-color: rosybrown;
+    display: inline-block;
+    border: 7vw black;
+    width:30vw;
+    padding: 9vw;
+    position: absolute;    
+}
+.block3
+{
+    background-color: skyblue;
+    display: inline-block;
+    border: black 7vw;
+    width: 5vw;
+    padding:3vw;
+    position: absolute;
+}
+.MainBlocks
+{
+    background-color: white;
+    display: inline-block;
+    border: black 7vw;
+    width:40vw;
+    padding:8vw;
+    position: relative;
+}
