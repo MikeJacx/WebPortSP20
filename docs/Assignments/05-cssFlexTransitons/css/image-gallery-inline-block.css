@@ -6,7 +6,7 @@
     border:5vw black;
     width: 20vw;
     padding: 7vw;
-    position: relative;
+   
 }
 .text
 {
@@ -14,7 +14,7 @@
     display: inline-block;
     color:red;
     font-family: sans-serif;
-    z-index: -3 
+    
 }
 .block2
 {
@@ -23,7 +23,7 @@
     border: 7vw black;
     width:30vw;
     padding: 9vw;
-    position: absolute;    
+       
 }
 .block3
 {
@@ -32,7 +32,7 @@
     border: black 7vw;
     width: 5vw;
     padding:3vw;
-    position: absolute;
+    
 }
 .MainBlocks
 {
@@ -41,5 +41,5 @@
     border: black 7vw;
     width:40vw;
     padding:8vw;
-    position: relative;
+    
 }
