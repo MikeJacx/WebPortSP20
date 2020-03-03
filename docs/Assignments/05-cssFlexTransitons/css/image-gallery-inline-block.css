@@ -3,7 +3,7 @@
     display: inline-block;
     background-color: pink;
     size: 4vw;
-    border:5vw black;
+    border:1vw solid black;
     width: 20vw;
     padding: 7vw;
    
@@ -20,7 +20,7 @@
 {
     background-color: rosybrown;
     display: inline-block;
-    border: 7vw black;
+    border: 1vw solid black;
     width:30vw;
     padding: 9vw;
        
@@ -29,7 +29,7 @@
 {
     background-color: skyblue;
     display: inline-block;
-    border: black 7vw;
+    border: 1vw solid black;
     width: 5vw;
     padding:3vw;
     

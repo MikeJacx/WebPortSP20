@@ -3,24 +3,44 @@
     color: cadetblue;
     padding:0;
     margin:0;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 #border-one
 {   display: flex;
     margin: 0 auto;
     flex-direction: row;
-}
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 50vw;
+    height:75vw;
+    border: 2vw solid orange;
 
+}
+#rows
+{
+    display:flex;
+    margin:0 auto;
+    flex-direction: row;
+    flex-wrap:wrap;
+    width: 50vw;
+    height:10vw;
+    border: 1vw solid ;
+}
 .boxes
 {
     width:10vw;
     height:10vw;
     left: 5px;
     background-color: red;
-    position:absolute;
+    position: relative;
+    display: flex;
+    margin: 0 auto;
     transition-property:background-color,left;
     transition-timing-function: ease-in-out;
     transition-duration: 2s,1s;
+    justify-content: space-between;
+    
 
 }
 .boxes:hover

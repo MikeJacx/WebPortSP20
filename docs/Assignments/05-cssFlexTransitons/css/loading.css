@@ -1,0 +1,33 @@
+*{
+    color: orange;
+    margin:0;
+    padding:0;
+}
+#bar
+{
+    width:98vw;
+    height:10vw;
+    border:1vw solid black;
+    display:flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+
+}
+.transition
+{
+    width:5vw;
+    height:10vw;
+    transition-property: width,background-color;
+    margin:0 auto;
+    position: relative;
+    color: red;
+    transition-duration: 10s;
+    justify-content: left;
+    display: flex;
+    
+}
+.transition:hover
+{
+    width:98vw;
+    height:10vw;
+}
